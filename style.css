@@ -111,7 +111,7 @@
    ===================================================== */
 *, *::before, *::after { box-sizing: border-box; }
 
-html { scroll-behavior: smooth; scroll-padding-top: 90px; }
+html { scroll-behavior: smooth; scroll-padding-top: 90px; font-size: 92%; }
 
 body {
   margin: 0;
